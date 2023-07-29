@@ -1,0 +1,6 @@
+
+docker build -t webapp .
+
+docker run -p 80:80 -p 443:443 webapp
+
+affichage d'un logo linux avec un fond bleu
