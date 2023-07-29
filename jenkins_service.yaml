@@ -9,3 +9,6 @@ spec:
     targetPort: 8180
   selector:
     app: jenkins
+
+
+    
